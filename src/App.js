@@ -15,7 +15,7 @@ function App() {
       <Header />
       <Nav />
       <Router>
-        <About path="/mysite" />
+        <About path="/mysite/." />
         <Skills path="/mysite/skills" />
         <Projects path="/mysite/projects"/>
         <Contact path="/mysite/contactme" />

@@ -5,7 +5,7 @@ const About = props => {
     return (
         <div className="row">
             <div className="col-3 p-2 res-bg round">
-                <img src="../img/DSC_0276_bw.jpg" alt="Jonathan Seastedt" className="w-100"/>
+                <img src="img/DSC_0276_bw.jpg" alt="Jonathan Seastedt" className="w-100"/>
             </div>
             <div className="col align-self-center mb-4">
                 <fieldset className="p-2">

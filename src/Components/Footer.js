@@ -8,13 +8,13 @@ const Footer = props => {
             <div className="col p-0 text-center">
                 <hr className="mb-1 mt-1 res-bg"/>
                     <a href="https://github.com/Seas-dev" className="mr-1">
-                        <img src="../img/github.png" alt="Github" className="smol"/>
+                        <img src="img/github.png" alt="Github" className="smol"/>
                     </a>
                     <a href="https://www.linkedin.com/in/jon-seastedt/" className="mr-1">
-                        <img src="../img/linkedin.png" alt="LinkedIn" className="smol"/> 
+                        <img src="img/linkedin.png" alt="LinkedIn" className="smol"/> 
                     </a>
                     <a href="mailto:seastedt.ej@gmail.com">
-                        <img src="../img/gmail.png" alt="Gmail" className="smol"/>
+                        <img src="img/gmail.png" alt="Gmail" className="smol"/>
                     </a>
             </div>
         </div>

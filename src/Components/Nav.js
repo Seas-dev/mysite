@@ -7,7 +7,7 @@ const Nav = props => {
             <div className="col text-center">
                 <div className="row res-bg rounded p-2 mb-2">
                         <div className="col bigger">    
-                            <Link to="/" className="t-light">About</Link>
+                            <Link to="/mysite" className="t-light">About</Link>
                         </div>
                         <div className="col bigger">    
                             <Link to="/skills" className="t-light">Skills</Link>

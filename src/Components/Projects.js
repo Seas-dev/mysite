@@ -12,7 +12,7 @@ const Projects = props => {
           description: "A message board where registered users can see all their messages, message other users, and comment on any messages on the site. Features login and password validation, user access levels, Bcrypt password hashing, and various schema relationships",
           github: "https://github.com/Seas-dev/user_dasboard/tree/master/user_dashboard",
           url: "http://18.188.214.143",
-          stillImg: "../img/user_mb_screen.png",
+          stillImg: "img/user_mb_screen.png",
           gifImg: "",
         },
         {
@@ -21,7 +21,7 @@ const Projects = props => {
           description: "A common area where users can share details on a pet that's up for adoption. Pets have associated attributes and skills. Features API calls, AJAX methodologies, and is a single-page application.",
           github: "https://github.com/Seas-dev/MERN-Deployment",
           url: "http://3.14.153.108/",
-          stillImg: "../img/pet_shelter_screen.png",
+          stillImg: "img/pet_shelter_screen.png",
           gifImg: "",
         },
         {
@@ -30,7 +30,7 @@ const Projects = props => {
             description: "Activity planner in which registered users may plan fun activities and join other user-created activities. Features login and password validation, password hashing, and one-to-many and many-to-many relationships",
             github: "https://github.com/Seas-dev/ActivityCenter",
             url: "http://3.134.91.121/",
-            stillImg: "../img/activity_center_screen.png",
+            stillImg: "img/activity_center_screen.png",
             gifImg: "",
           },
           {
@@ -39,7 +39,7 @@ const Projects = props => {
             description: "Travel organizer allowing multiple registered users to coordinate travel plans and join travel itineraries via a user-friendly web interface. Features login validations, Bcrypt password hashing, Session, and various schema relationships.",
             github: "https://github.com/Seas-dev/travel_buddy",
             url: "http://18.188.246.69",
-            stillImg: "../img/travel_buddy_screen.png",
+            stillImg: "img/travel_buddy_screen.png",
             gifImg: "",
           },
       ]

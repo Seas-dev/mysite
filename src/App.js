@@ -16,9 +16,9 @@ function App() {
       <Nav />
       <Router>
         <About path="/mysite" />
-        <Skills path="/skills" />
-        <Projects path="/projects"/>
-        <Contact path="/contactme" />
+        <Skills path="/mysite/skills" />
+        <Projects path="/mysite/projects"/>
+        <Contact path="/mysite/contactme" />
       </Router>
       <Footer />
     </div>

@@ -10,17 +10,17 @@ const Nav = props => {
                             <Link to="/mysite" className="t-light">About</Link>
                         </div>
                         <div className="col bigger">    
-                            <Link to="/skills" className="t-light">Skills</Link>
+                            <Link to="/mysite/skills" className="t-light">Skills</Link>
                         </div>
                         <div className="col bigger">
-                            <Link to="/projects" className="t-light">Projects</Link>
+                            <Link to="/mysite/projects" className="t-light">Projects</Link>
                         </div>
                         {/* UPDATE THIS LINK REGULARLY!!!!!!!!!!! */}
                         <div className="col bigger">    
                             <a href="https://drive.google.com/open?id=13Uhw5kH4pUg14omHRsBPMGrP5WULjFOe" className="text-light">Resume</a>
                         </div>
                         <div className="col bigger">    
-                            <Link to="/contactme" className="t-light">Contact</Link>
+                            <Link to="/mysite/contactme" className="t-light">Contact</Link>
                         </div>
                 </div>
 

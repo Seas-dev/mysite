@@ -11,7 +11,7 @@ const About = props => {
                 <fieldset className="p-2">
                     <legend className="font-weight-bold w-auto res-text">About</legend>
                     <p className="p-1 bigger">I enjoy solving problems, and thinking through every angle to find the best path forward. Teamwork and collaboration are two things that I strive for. I love it when a team comes together. Without a comprehensive team, how do you expect to take your project to the next level?</p>
-                    <p className="p-1 bigger">Additionally, I also happen to be a pretty big nerd with a penchant for game-mastering table-top role playing games like Dungeons &amp; Dragons. I enjoy cooking and trying new foods, creative writing, and gaming.</p>
+                    <p className="p-1 bigger">Additionally, I also happen to be a pretty big nerd with a penchant for game-mastering table-top role-playing games like Dungeons &amp; Dragons. I enjoy cooking and trying new foods, creative writing, and gaming.</p>
                 </fieldset>
             </div>
         </div>
